@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ronnie.
-### Programming enthusiast, tech enthusiast and aspiring techpreneur.
+### Student Engineer, tech enthusiast and aspiring techpreneur.
 ### I specialize in the React - Django PostgreSQL tech stack. 
 
 - 🔭 I'm currently working on an E-commerce platform
