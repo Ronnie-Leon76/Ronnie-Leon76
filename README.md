@@ -1,19 +1,17 @@
 ### Hi there 👋 I'm Ronnie.
-Programming enthusiast, tech enthusiast and aspiring techpreneur.
+### Programming enthusiast, tech enthusiast and aspiring techpreneur.
 ### I specialize in the React - Django PostgreSQL tech stack. I'm currently working on an E-commerce platform that will be selling desktop computers, laptops and computer peripherals. 
 ### I'm also currently learning Hardware programming, Atmel programming. 
 
-<!--
-**Ronnie-Leon76/Ronnie-Leon76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on an E-commerce platform
+- 🌱 I'm currently learning advanced concepts in ReactJS, Atmel programming, UI/UX design with Figma and PCB and circuit design
+- 👯 I’m looking to collaborate on web apps projects.
+- 🤔 I’m looking for help with Hardware programming
+- 💬 Ask me about ReactJS, UI/UX Design with Figma, Front end Development, Arduino, C/C++ and Python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Always gets it done.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!--- 📫 How to reach me:<ul><li href="https://twitter.com/Ronnie_Leon_">Twitter</li> <li href="https://www.linkedin.com/in/ronnie-leon-b602a9186/">LinkedIn</li><ul>-->
