@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ronnie.
 ### Programming enthusiast, tech enthusiast and aspiring techpreneur.
 ### I specialize in the React - Django PostgreSQL tech stack. I'm currently working on an E-commerce platform that will be selling desktop computers, laptops and computer peripherals. 
-### I'm also currently learning Hardware programming, Atmel programming. 
+ 
 
 
 - 🔭 I'm currently working on an E-commerce platform
