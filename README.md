@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Ronnie.
+Programming enthusiast, tech enthusiast and aspiring techpreneur.
+### I specialize in the React - Django PostgreSQL tech stack. I'm currently working on an E-commerce platform that will be selling desktop computers, laptops and computer peripherals. 
+### I'm also currently learning Hardware programming, Atmel programming. 
 
 <!--
 **Ronnie-Leon76/Ronnie-Leon76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
