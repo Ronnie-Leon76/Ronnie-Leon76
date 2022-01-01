@@ -3,7 +3,7 @@
 ### I specialize in the React - Django PostgreSQL tech stack. 
 
 - 🔭 I'm currently working on an E-commerce platform
-- 🌱 I'm currently learning advanced concepts in ReactJS, Atmel programming, UI/UX design with Figma and PCB/Circuit design
+- 🌱 I'm currently learning advanced concepts in ReactJS, Material UI, Atmel programming, UI/UX design with Figma and PCB/Circuit design
 - 👯 I’m looking to collaborate on web apps projects.
 - 🤔 I’m looking for help with Hardware programming
 - 💬 Ask me about Linux(Ubuntu), ReactJS, UI/UX Design, MySQL, PostgreSQL, Front end development, Django, Arduino, C/C++ and Python
