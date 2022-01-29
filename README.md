@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Avatar Tech KE**
 
-- 👨‍💻 All of my projects are available at [https://ochiengleon.netlify.app/](https://ochiengleon.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Ronnie-Leon76](https://github.com/Ronnie-Leon76)
 
 - 📝 I regularly write articles on [JavaScript, ReactJS and React Native](JavaScript, ReactJS and React Native)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ronleon76@gmail.com**
 
-- 📄 Know about my experiences [https://ochiengleon.netlify.app/](https://ochiengleon.netlify.app/)
+- 📄 Know about my experiences [https://github.com/Ronnie-Leon76](https://github.com/Ronnie-Leon76)
 
 - ⚡ Fun fact **Always gets it done**
 
