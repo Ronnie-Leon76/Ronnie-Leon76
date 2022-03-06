@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ronnie_leon_" target="blank"><img src="https://img.shields.io/twitter/follow/ronnie_leon_?logo=twitter&style=for-the-badge" alt="ronnie_leon_" /></a> </p>
 
-- 🔭 I’m currently working on [a food order app](https://cosy-hotels254.netlify.app/)
+- 🔭 I’m currently working on [NextJS Events App](https://next-js-events-app.vercel.app/)
 
-- 🌱 I’m currently learning **React Native, Material UI, Figma**
+- 🌱 I’m currently learning **React Native, Material UI, Figma, NextJS, NodeJS, Express, MongoDB**
 
 - 👯 I’m looking to collaborate on **coin base web 3.0 app**
 
@@ -17,9 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ronnie-Leon76](https://github.com/Ronnie-Leon76)
 
-- 📝 I regularly write articles on [JavaScript, ReactJS and React Native](JavaScript, ReactJS and React Native)
+- 📝 I regularly write articles on ReactJS, NodeJS, ExpressJS, NextJS, Material UI, Machine Learning/ AI, React Native and embedded systems
 
-- 💬 Ask me about **ReactJS, React Native, Material UI**
+- 💬 Ask me about **ReactJS, React Native, Material UI, ExpressJS, NextJS, NodeJS, MongoDB**
 
 - 📫 How to reach me **ronleon76@gmail.com**
 
