@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Tech Events App](https://next-js-events-app.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://ochiengleon.netlify.app/](https://adeptschneider-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adeptschneider-portfolio.netlify.app/](https://adeptschneider-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://adeptschneider-blogs.vercel.app/](https://adeptschneider-blogs.vercel.app/)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ronleon76@gmail.com**
 
-- 📄 Know about my experiences [https://ochiengleon.netlify.app/](https://adeptschneider-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://adeptschneider-portfolio.netlify.app/](https://adeptschneider-portfolio.netlify.app/)
 
 - ⚡ Fun fact **I don't mind mind games, let's play!**
 
