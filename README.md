@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://adeptschneider-blogs.vercel.app/](https://adeptschneider-blogs.vercel.app/)
 
-- 💬 Ask me about **React, Typescript, NextJS, Django**
+- 💬 Ask me about **ReactJS, Typescript, NextJS, Django, React Query, REST APIs**
 
 - 📫 How to reach me **ronleon76@gmail.com**
 
