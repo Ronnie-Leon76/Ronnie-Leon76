@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/ronnie_leon_" target="blank"><img src="https://img.shields.io/twitter/follow/ronnie_leon_?logo=twitter&style=for-the-badge" alt="ronnie_leon_" /></a> </p>
 
-- 🔭 I’m currently working on [Avatar Tech KE](https://avatar-tech-ke.herokuapp.com/#/)
+- 🔭 I’m currently working on [Pivot Club KU Website](https://pivotclubku.vercel.app/)
 
-- 🌱 I’m currently learning **React Query, React - Typescript, MQTT**
+- 🌱 I’m currently learning **Machine Learning with Scikit-Learn, Keras & Tensorflow, IoT, TinyML**
 
 - 👯 I’m looking to collaborate on [reactdevske](https://reactdevske.netlify.app/)
 
-- 🤝 I’m looking for help with [Tech Events App](https://next-js-events-app.vercel.app/)
+- 🤝 I’m looking for help with [Pivot Club KU Web App](https://pivotclubku.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://adeptschneider-portfolio.netlify.app/](https://adeptschneider-portfolio.netlify.app/)
 
