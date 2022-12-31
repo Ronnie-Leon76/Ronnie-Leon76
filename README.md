@@ -1,6 +1,11 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [Pivot Club KU Website](https://pivotclubku.vercel.app/)<br><br>- 🌱 I’m currently learning **Machine Learning with Scikit-Learn, Keras & Tensorflow, IoT, TinyML**<br><br>- 👯 I’m looking to collaborate on [reactdevske](https://reactdevske.netlify.app/)<br><br>- 🤝 I’m looking for help with [Pivot Club KU Web App](https://pivotclubku.vercel.app/)<br><br>- 👨‍💻 All of my projects are available at [https://adeptschneider-portfolio.netlify.app/](https://adeptschneider-portfolio.netlify.app/)<br><br>- 📝 I regularly write articles on [https://adeptschneider-blogs.vercel.app/](https://adeptschneider-blogs.vercel.app/)<br><br>- 📫 How to reach me **ronleon76@gmail.com**<br><br>- 📄 Know about my experiences [https://adeptschneider-portfolio.netlify.app/](https://adeptschneider-portfolio.netlify.app/)<br><br>- ⚡ Fun fact **I don't mind games, come let us play!**<br>
 
+# WakaTime
+```python
+print(readme_markdown)
+```
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ronnie-leon-b602a9186) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Ronnie_Leon_) 
@@ -11,6 +16,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ronnie-Leon76&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ronnie-Leon76&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronnie-Leon76&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ronnie-Leon76&icon=0&color=0)](https://visitcount.itsvg.in)
