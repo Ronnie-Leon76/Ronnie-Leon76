@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Machine Learning with Scikit-Learn, Keras & Tensorflow, IoT, TinyML**<br><br>- 👯 I’m looking to collaborate on Data Science projects!<br><br>- 👨‍💻 All of my projects are available at [https://ochiengronnie.netlify.app/](https://ochiengronnie.netlify.app/)<br><br>- 📝 I regularly write articles on [https://adeptschneider-blogs.vercel.app/](https://adeptschneider-blogs.vercel.app/)<br><br>- 📫 How to reach me **ronleon76@gmail.com**<br><br>- 📄 Know about my experiences [https://ochiengronnie.netlify.app/](https://ochiengronnie.netlify.app/)<br><br>- ⚡ Fun fact **I don't mind games, come let us play!**<br>
+🌱 I’m currently learning **Deep Learning i.e. COmputer Vision, Generative AI, RNN, NLP, and Flutter**<br><br>- 👯 I’m looking to collaborate on Data Science projects!<br><br>- 👨‍💻 All of my projects are available at [https://ochiengronnie.netlify.app/](https://ochiengronnie.netlify.app/)<br><br> - 📫 How to reach me **ronleon76@gmail.com**<br><br>- 📄 Know about my experiences [https://ochiengronnie.netlify.app/](https://ochiengronnie.netlify.app/)<br><br>- ⚡ Fun fact **I don't mind games, come let us play!**<br>
 
 
 ## 🌐 Socials:
