@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Deep Learning i.e. COmputer Vision, Generative AI, RNN, NLP, and Flutter**<br><br>- 👯 I’m looking to collaborate on Data Science projects!<br><br>- 👨‍💻 All of my projects are available at [https://ochiengronnie.netlify.app/](https://ochiengronnie.netlify.app/)<br><br> - 📫 How to reach me **ronleon76@gmail.com**<br><br>- 📄 Know about my experiences [https://ochiengronnie.netlify.app/](https://ochiengronnie.netlify.app/)<br><br>- ⚡ Fun fact **I don't mind games, come let us play!**<br>
+🌱 I’m currently building solutions with **Deep Learning i.e. Computer Vision, Generative AI, RNN, NLP, LangChain, Django, ReactJS**<br><br>- 👯 I’m looking to collaborate on Data Science projects!<br><br>- 👨‍💻 All of my projects are available at [https://ochiengronnie.netlify.app/](https://ochiengronnie.netlify.app/)<br><br> - 📫 How to reach me **ronleon76@gmail.com**<br><br>- 📄 Know about my experiences [https://ochiengronnie.netlify.app/](https://ochiengronnie.netlify.app/)<br><br>- ⚡ Fun fact **I don't mind games, come let us play!**<br>
 
 
 ## 🌐 Socials:
